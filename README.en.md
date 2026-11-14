@@ -6,14 +6,14 @@ Keep your daily tasks and weekly goals at the edge of your Windows desktop. Hove
 
 ## Download
 
-**Current release v1.2.2** · Windows 10 version 1903 or later and Windows 11 (x64).
+**Current release v1.2.3** · Windows 10 version 1903 or later and Windows 11 (x64).
 
 | Edition | Includes | ZIP | Extracted | Download |
 | --- | --- | ---: | ---: | --- |
-| **Local** | Plans, color labels, edge docking, progress, quotes, and export | 0.71 MB | 1.92 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-local.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-local.zip) |
-| **Full** | All Local features plus optional two-way Feishu document sync | 13.94 MB | 49.83 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-full.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-full.zip) |
+| **Local** | Plans, color labels, edge docking, progress, quotes, and export | 0.72 MB | 1.94 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) |
+| **Full** | All Local features plus optional two-way Feishu document sync | 13.94 MB | 49.84 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-full.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-full.zip) |
 
-Both are portable ZIP packages. Extract the entire ZIP, keep the files together, and open `桌面日程.exe`. They use the .NET Framework 4.8 or 4.8.1 runtime included with supported Windows versions. Local planning works offline in both editions and requires no Codex or Feishu account.
+Both are portable ZIP packages. Extract the entire ZIP, keep the files together, and open `DesktopPlanner.exe`. They use the .NET Framework 4.8 or 4.8.1 runtime included with supported Windows versions. Local planning works offline in both editions and requires no Codex or Feishu account.
 
 For later releases, go to **Settings → General → About & updates**. In-app updates use CNB and download the matching edition, including for copies originally downloaded from GitHub.
 
