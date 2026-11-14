@@ -8,14 +8,16 @@ An edge-docked Windows planner for daily tasks and weekly goals. Hover over the 
 
 ## 下载
 
-**当前版本 v1.2.1** · Windows 10 1903 及更新版本、Windows 11（x64）
+**当前版本 v1.2.2** · Windows 10 1903 及更新版本、Windows 11（x64）
 
 | 版本 | 功能 | ZIP 下载 | 解压后 | 下载入口 |
 | --- | --- | ---: | ---: | --- |
-| **本地版** | 日程、任务颜色、贴边、总览、格言、导出 | 0.75 MB | 1.92 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.1/desktop-planner-1.2.1-windows-x64-local.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.1/desktop-planner-1.2.1-windows-x64-local.zip) |
-| **完整版** | 本地版全部功能，加上可选的飞书文档双向同步 | 14.49 MB | 49.83 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.1/desktop-planner-1.2.1-windows-x64-full.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.1/desktop-planner-1.2.1-windows-x64-full.zip) |
+| **本地版** | 日程、任务颜色、贴边、总览、格言、导出 | 0.71 MB | 1.92 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-local.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-local.zip) |
+| **完整版** | 本地版全部功能，加上可选的飞书文档双向同步 | 13.94 MB | 49.83 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-full.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-full.zip) |
 
 两个版本都是 ZIP 便携包。完整解压后双击 `桌面日程.exe`，保留旁边的 DLL 和配置文件。两版使用 Windows 自带的 .NET Framework 4.8 或 4.8.1，无需单独安装 .NET 10 或 Codex。两版均可离线做本地计划，完整版按需在「高级设置 → 数据」连接飞书。
+
+首次下载也可选 7z，完整解压后用法相同。本地版 0.52 MB（[GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-local.7z) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-local.7z)），完整版 9.86 MB（[GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-full.7z) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.2/desktop-planner-1.2.2-windows-x64-full.7z)）。
 
 在「高级设置 → 常规 → 关于与更新」检查新版。无论最初从哪里下载，软件内更新统一走 CNB，并自动选择已安装的版本类型。
 
