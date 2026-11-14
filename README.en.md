@@ -1,38 +1,41 @@
-# Desktop Planner · 桌面日程
+# Desktop Planner
 
-Keep your daily tasks and weekly goals at the edge of your Windows desktop. Hover to open the planner and let it tuck away when you move on.
+A Windows planner that lives at the edge of your screen. Hover over the edge tab to open your plans, add or check off a task, then move away to tuck it back.
 
-[简体中文](README.md)
+[简体中文](README.md) · [User guide](docs/usage.en.md) · [Report an issue](https://github.com/PASSIONYOUNGZ/desktop-planner/issues)
 
 ## Download
 
-**Current release v1.2.3** · Windows 10 version 1903 or later and Windows 11 (x64).
+**Current release 1.2.3** · Windows 10 version 1903 or later, Windows 11 (x64)
 
 | Edition | Includes | ZIP | Extracted | Download |
 | --- | --- | ---: | ---: | --- |
-| **Local** | Plans, color labels, edge docking, progress, quotes, and export | 0.72 MB | 1.94 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) |
-| **Full** | All Local features plus optional two-way Feishu document sync | 13.94 MB | 49.84 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-full.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-full.zip) |
+| **Local** | Offline daily and weekly plans, progress, and export | 0.72 MB | 1.94 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) |
+| **Full** | Everything in Local, plus optional two-way Feishu sync | 13.94 MB | 49.84 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-full.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-full.zip) |
 
-Both are portable ZIP packages. Extract the entire ZIP, keep the files together, and open `DesktopPlanner.exe`. They use the .NET Framework 4.8 or 4.8.1 runtime included with supported Windows versions. Local planning works offline in both editions and requires no Codex or Feishu account.
-
-For later releases, go to **Settings → General → About & updates**. In-app updates use CNB and download the matching edition, including for copies originally downloaded from GitHub.
+Extract the whole ZIP and run `DesktopPlanner.exe`. Both editions work offline without an account. Check for updates under **Settings → General → About & updates**.
 
 ## Screenshots
 
-| Daily plan | Progress overview | Personalization |
+| Daily plan | Weekly plan | Progress overview |
 | :---: | :---: | :---: |
-| <img src="screenshots/daily-en.png" width="229" alt="Daily plan with color labels and completed tasks"> | <img src="screenshots/overview-en.png" width="229" alt="Seven-day completion chart and task history"> | <img src="screenshots/settings-en.png" width="229" alt="Theme and daily quote settings"> |
+| <img src="screenshots/daily-en.png" width="229" alt="Daily plan with color labels and completion marks"> | <img src="screenshots/weekly-en.png" width="229" alt="Weekly plan and progress"> | <img src="screenshots/overview-en.png" width="229" alt="Completion chart and task history"> |
 
-[Weekly plan screenshot](screenshots/weekly-en.png)
+[Personalization settings](screenshots/settings-en.png)
 
 ## Features
 
-- **Daily and weekly planning.** Check off tasks, assign colors, drag to reorder or move tasks between days, and carry unfinished tasks forward.
-- **Desktop widget.** Edge docking, hover to open, pin on top, tray controls, resizable window, start with Windows, and an editable new-task shortcut.
-- **Progress and export.** Review tasks by date, see completion charts, and export all records, this week, or this month to Markdown or Word.
-- **Personalization.** English and Simplified Chinese, preset and custom colors, and rotating, fixed, or custom quotes.
-- **Optional Feishu sync.** With the Full edition, connect a document you can edit from **Settings → Data**. Multiple Windows devices can sync tasks and completion status by authorizing the same document.
+- **Plan your work.** Create daily and weekly plans, color-code tasks, and drag to reorder or move tasks between days. Carry over unfinished tasks from yesterday when today’s list is empty.
+- **Keep it within reach.** Dock the window on any edge, pin it on top, resize it, launch it with Windows, or set your own new-task shortcut.
+- **Review and export.** See completion rates by the last seven days, calendar week, calendar month, or all time. Export this week, this month, or your entire task history as Markdown or Word.
+- **Make it yours.** Switch between English and Simplified Chinese, pick a preset or custom theme, and choose rotating, fixed, or custom daily quotes.
 
-[Version history](CHANGELOG.md) · [Report an issue](https://github.com/PASSIONYOUNGZ/desktop-planner/issues)
+## Feishu sync
 
-Thanks to everyone who has tried the app and shared feedback. The Full edition includes the [official Feishu CLI](https://github.com/larksuite/cli). Third-party notices ship with the ZIP.
+In the Full edition, go to **Settings → Data** and connect a Feishu document you can edit. Daily and weekly tasks and completion status sync in the background. Two Windows PCs can share the same plans by connecting to the same document. You can also view the document in Feishu on your phone. When you switch documents, Desktop Planner tries your saved authorization first.
+
+## Data and feedback
+
+Plans are stored in the `Data` folder beside the app. Keep that folder when moving the app or backing up your plans. Preferences and Feishu authorization are stored in your Windows user profile.
+
+Built by [PassionYoungz](https://github.com/PASSIONYOUNGZ). The Full edition includes the [official Feishu CLI](https://github.com/larksuite/cli) and its license. [Version history](CHANGELOG.md) · [Feedback](https://github.com/PASSIONYOUNGZ/desktop-planner/issues)
