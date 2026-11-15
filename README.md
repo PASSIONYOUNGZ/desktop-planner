@@ -45,4 +45,6 @@
 
 如果桌面日程帮到了你，可以扫码请我喝杯咖啡。
 
-<img src="assets/support-qr.png" width="180" alt="赞赏码">
+<p align="center">
+  <img src="assets/support-qr.png" width="180" alt="赞赏码">
+</p>
