@@ -46,5 +46,5 @@ Built by [PassionYoungz](https://github.com/PASSIONYOUNGZ). The Full edition inc
 If Desktop Planner has been useful to you, you can scan this QR code to buy me a coffee.
 
 <p align="center">
-  <img src="assets/support-qr.png" width="180" alt="Support QR code">
+  <img src="assets/support-qr.png" width="300" alt="Support QR code">
 </p>
