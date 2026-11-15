@@ -39,3 +39,10 @@ In the Full edition, go to **Settings → Data** and connect a Feishu document y
 Plans are stored in the `Data` folder beside the app. Keep that folder when moving the app or backing up your plans. Preferences and Feishu authorization are stored in your Windows user profile.
 
 Built by [PassionYoungz](https://github.com/PASSIONYOUNGZ). The Full edition includes the [official Feishu CLI](https://github.com/larksuite/cli) and its license. [Version history](CHANGELOG.md) · [Feedback](https://github.com/PASSIONYOUNGZ/desktop-planner/issues)
+
+
+## Support
+
+If Desktop Planner has been useful to you, you can scan this QR code to buy me a coffee.
+
+<img src="assets/support-qr.png" width="180" alt="Support QR code">

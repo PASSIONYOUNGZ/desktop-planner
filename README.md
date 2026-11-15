@@ -39,3 +39,10 @@
 日程保存在程序旁的 `Data` 文件夹。移动软件或备份日程时，请一并保留这个文件夹。界面设置与飞书授权保存在当前 Windows 用户目录。
 
 桌面日程由 [PassionYoungz](https://github.com/PASSIONYOUNGZ) 制作。完整版随包提供[飞书官方 CLI](https://github.com/larksuite/cli)及第三方许可。[版本记录](CHANGELOG.md) · [反馈问题或建议](https://github.com/PASSIONYOUNGZ/desktop-planner/issues)
+
+
+## 赞赏
+
+如果桌面日程帮到了你，可以扫码请我喝杯咖啡。
+
+<img src="assets/support-qr.png" width="180" alt="赞赏码">
