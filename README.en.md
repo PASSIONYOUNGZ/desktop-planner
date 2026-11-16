@@ -6,12 +6,19 @@ A Windows planner that lives at the edge of your screen. Hover over the edge tab
 
 ## Download
 
-**Current release 1.2.4** · Windows 10 version 1903 or later, Windows 11 (x64)
+For Windows 10 version 1903 or later and Windows 11 (x64).
 
-| Edition | Includes | ZIP | Extracted | Download |
-| --- | --- | ---: | ---: | --- |
-| **Local** | Offline daily and weekly plans, progress, and export | 0.72 MB | 1.94 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-local.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-local.zip) |
-| **Full** | Everything in Local, plus optional two-way Feishu sync | 13.95 MB | 49.84 MB | [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) · [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) |
+### Full 1.2.4 (Recommended)
+
+Use it offline or connect Feishu for two-way sync across Windows PCs.
+
+13.95 MB ZIP, 49.84 MB extracted. [Download from GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) · [Download from CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip)
+
+### Local 1.2.3
+
+For use on a single PC, with offline daily and weekly plans, progress, and export.
+
+0.72 MB ZIP, 1.94 MB extracted. [Download from GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) · [Download from CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip)
 
 Extract the whole ZIP and run `DesktopPlanner.exe`. Both editions work offline without an account. Check for updates under **Settings → General → About & updates**.
 

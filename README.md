@@ -6,12 +6,19 @@
 
 ## 下载
 
-**当前版本 1.2.4** · Windows 10 1903 及更新版本、Windows 11（x64）
+适用于 Windows 10 1903 及更新版本、Windows 11（x64）。
 
-| 版本 | 功能 | ZIP 下载 | 解压后 | 下载入口 |
-| --- | --- | ---: | ---: | --- |
-| **本地版** | 离线日计划、周计划、总览和导出 | 0.72 MB | 1.94 MB | [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-local.zip) · [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-local.zip) |
-| **完整版** | 本地版全部功能，另含可选的飞书双向同步 | 13.95 MB | 49.84 MB | [CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) · [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) |
+### 完整版 1.2.4（推荐）
+
+直接离线使用，也可以选用飞书双向同步，在不同电脑上共用日程。
+
+ZIP 13.95 MB，解压后 49.84 MB。[CNB 下载](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) · [GitHub 下载](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip)
+
+### 本地版 1.2.3
+
+适合只在本机使用，包含日计划、周计划、总览和导出。
+
+ZIP 0.72 MB，解压后 1.94 MB。[CNB 下载](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip) · [GitHub 下载](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.3/desktop-planner-1.2.3-windows-x64-local.zip)
 
 完整解压 ZIP 后双击 `DesktopPlanner.exe`。两版都能离线使用，本地功能无需注册或登录。之后在「高级设置 → 常规 → 关于与更新」检查更新。
 
