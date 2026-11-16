@@ -1,5 +1,12 @@
 # 版本记录
 
+## 1.2.4
+
+- 完整版支持飞书双向同步六种任务颜色，编辑、完成、排序或跨天移动时保留任务颜色。
+- The Full edition syncs six task colors with Feishu. Colors stay with tasks through edits, completion, reordering, and moves between days.
+
+[CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/tag/v1.2.4) · [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/tag/v1.2.4)
+
 ## 1.2.3
 
 - 日程和待同步记录保存在程序旁的 `Data`。界面设置和飞书授权保存在 Windows 用户目录。

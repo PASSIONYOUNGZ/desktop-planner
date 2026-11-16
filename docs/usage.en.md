@@ -30,6 +30,8 @@ The app uses .NET Framework 4.8 or 4.8.1 and supports Windows 10 version 1903 or
 2. Click **Connect Feishu**. The app tries saved authorization first and opens your browser when authorization is needed. Check the document's sharing settings if your account cannot edit it.
 3. Edit tasks from the app or the document. Desktop Planner groups the document by calendar week and uses `YYYY-MM-DD` date headings followed by numbered task paragraphs.
 
+Task colors sync as highlights on task numbers in Feishu. Updated copies of the Full edition read the same task colors from that document.
+
 Local and Feishu workspaces save their plans separately. You can share plans across Windows PCs by connecting to the same Feishu document and authorizing each PC. You can also open the document in Feishu on your phone.
 
 When you switch documents, Desktop Planner checks access with your existing authorization first. If Feishu revokes the refresh credential or it expires, reauthorize from the Data settings. [Official Feishu CLI](https://github.com/larksuite/cli)
