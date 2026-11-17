@@ -8,11 +8,11 @@
 
 适用于 Windows 10 1903 及更新版本、Windows 11（x64）。
 
-### 完整版 1.2.4（推荐）
+### 完整版 1.2.5（推荐）
 
 直接离线使用，也可以选用飞书双向同步，在不同电脑上共用日程。
 
-ZIP 13.95 MB，解压后 49.84 MB。[CNB 下载](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) · [GitHub 下载](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip)
+ZIP 13.95 MB，解压后 49.85 MB。[CNB 下载](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.5/desktop-planner-1.2.5-windows-x64-full.zip) · [GitHub 下载](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.5/desktop-planner-1.2.5-windows-x64-full.zip)
 
 ### 本地版 1.2.3
 
@@ -39,7 +39,7 @@ ZIP 0.72 MB，解压后 1.94 MB。[CNB 下载](https://cnb.cool/passionyoungz/de
 
 ## 飞书同步
 
-完整版可在「高级设置 → 数据」连接你有编辑权限的飞书文档。组件和文档会在后台双向同步日计划、周计划、完成状态和任务颜色。两台 Windows 电脑分别连接同一份文档后，可以共享这份计划。手机上可在飞书打开该文档查看。更换文档时，应用会先尝试用同一账号已有的授权。
+完整版可在「高级设置 → 数据」连接你有编辑权限的飞书文档。组件和文档会在后台双向同步日计划、周计划、完成状态、任务颜色和每日格言。两台 Windows 电脑分别连接同一份文档后，可以共享这份计划。手机上可在飞书打开该文档查看。更换文档时，应用会先尝试用同一账号已有的授权。
 
 ## 数据与反馈
 

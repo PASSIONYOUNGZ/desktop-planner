@@ -1,5 +1,12 @@
 # 版本记录
 
+## 1.2.5
+
+- 完整版支持每日格言同步，同一份飞书文档中的当天计划和历史回顾使用同一个格言记录。
+- The Full edition shares daily quotes across PCs connected to the same Feishu document.
+
+[CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/tag/v1.2.5) · [GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/tag/v1.2.5)
+
 ## 1.2.4
 
 - 完整版支持飞书双向同步六种任务颜色，编辑、完成、排序或跨天移动时保留任务颜色。

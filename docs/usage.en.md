@@ -22,7 +22,7 @@ The app uses .NET Framework 4.8 or 4.8.1 and supports Windows 10 version 1903 or
 - Open the overview to check the last seven days, a calendar week, a calendar month, or all time. Scroll through dated tasks or open the complete history.
 - In **Settings → Data**, export all records, this week, or this month as Markdown or Word. The export uses the records available locally in your current workspace.
 - Plans and quote history are stored in `Data\planner.json`. The Feishu cache and pending changes are stored in `Data\sync.json`. Exit the app before moving, backing up, or copying its `Data` folder to another edition.
-- Preferences and Feishu authorization are stored in `%LOCALAPPDATA%\DesktopPlanner`. They follow your Windows user account on that PC. Check for updates under **Settings → General → About & updates**.
+- Preferences and Feishu authorization are stored in `%LOCALAPPDATA%\DesktopPlanner`. They follow your Windows user account on that PC. Check for updates under **Settings → General → About & updates**. To upgrade the Full edition from 1.2.4 or earlier, download the new ZIP from the homepage. Exit the app, then extract the ZIP into the same folder and keep `Data`.
 
 ## Sync with Feishu
 
@@ -31,6 +31,8 @@ The app uses .NET Framework 4.8 or 4.8.1 and supports Windows 10 version 1903 or
 3. Edit tasks from the app or the document. Desktop Planner groups the document by calendar week and uses `YYYY-MM-DD` date headings followed by numbered task paragraphs.
 
 Task colors sync as highlights on task numbers in Feishu. Updated copies of the Full edition read the same task colors from that document.
+
+Each date uses the first quote saved in Feishu. PCs connected to the same document show that quote in the daily view and history.
 
 Local and Feishu workspaces save their plans separately. You can share plans across Windows PCs by connecting to the same Feishu document and authorizing each PC. You can also open the document in Feishu on your phone.
 

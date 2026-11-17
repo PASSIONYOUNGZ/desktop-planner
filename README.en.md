@@ -8,11 +8,11 @@ A Windows planner that lives at the edge of your screen. Hover over the edge tab
 
 For Windows 10 version 1903 or later and Windows 11 (x64).
 
-### Full 1.2.4 (Recommended)
+### Full 1.2.5 (Recommended)
 
 Use it offline or connect Feishu for two-way sync across Windows PCs.
 
-13.95 MB ZIP, 49.84 MB extracted. [Download from GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip) · [Download from CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.4/desktop-planner-1.2.4-windows-x64-full.zip)
+13.95 MB ZIP, 49.85 MB extracted. [Download from GitHub](https://github.com/PASSIONYOUNGZ/desktop-planner/releases/download/v1.2.5/desktop-planner-1.2.5-windows-x64-full.zip) · [Download from CNB](https://cnb.cool/passionyoungz/desktop-planner/-/releases/download/v1.2.5/desktop-planner-1.2.5-windows-x64-full.zip)
 
 ### Local 1.2.3
 
@@ -39,7 +39,7 @@ Extract the whole ZIP and run `DesktopPlanner.exe`. Both editions work offline w
 
 ## Feishu sync
 
-In the Full edition, go to **Settings → Data** and connect a Feishu document you can edit. Daily and weekly tasks, completion status, and task colors sync in the background. Two Windows PCs can share the same plans by connecting to the same document. You can also view the document in Feishu on your phone. When you switch documents, Desktop Planner tries your saved authorization first.
+In the Full edition, go to **Settings → Data** and connect a Feishu document you can edit. Daily and weekly tasks, completion status, task colors, and daily quotes sync in the background. Two Windows PCs can share the same plans by connecting to the same document. You can also view the document in Feishu on your phone. When you switch documents, Desktop Planner tries your saved authorization first.
 
 ## Data and feedback
 
